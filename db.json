@@ -28,7 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "users?page=1": [ 
+  "users.page=1": [ 
   {
       "id": 1,
       "fname": "Nguyen Van",
@@ -110,7 +110,7 @@
       "password": "Asdasdad"
     } 
   ],
-   "users?page=2": [ 
+   "users.page=2": [ 
   {
       "id": 11,
       "fname": "Nguyen Van",
