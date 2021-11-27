@@ -13,7 +13,7 @@
   },
   "users" : [
       {
-        'id' : 1
+        'id' : 1,
         'fname': 'Nguyen Van A',
         'lname': 'ABC',
         'email': 'abc@gmail.com',
@@ -21,7 +21,7 @@
         'password' : 'AVBDWDJ'
       },
          {
-        'id' :2
+        'id' :2,
         'fname': 'Nguyen Van B',
         'lname': 'ABC',
         'email': 'abc@gmail.com',
@@ -30,7 +30,7 @@
       },
  
          {
-        'id' :3
+        'id' :3,
         'fname': 'Nguyen Van 3',
         'lname': 'ABC',
         'email': 'abc@gmail.com',
