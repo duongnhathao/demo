@@ -29,7 +29,9 @@
     "name": "typicode"
   },
   "users": [
-    {
+    "page" : [
+      "1":[
+  {
       "id": 1,
       "fname": "Nguyen Van",
       "lname": "A",
@@ -69,5 +71,7 @@
       "phone": "0123120312",
       "password": "Asdasdad"
     }
+  ]
+  ]
   ]
 }
