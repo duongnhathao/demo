@@ -1,23 +1,73 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
   },
-  "users" : [
-       { "id": 1, "fname": "Nguyen Van", "lname": "A" ,"email" : "abc@mail.com" , "phone" : "0123120312", "password" : "Asdasdad"}, 
-       { "id": 2, "fname": "Nguyen Van", "lname": "B" ,"email" : "abc@mail.com" , "phone" : "0123120312", "password" : "Asdasdad"},
-       { "id": 3, "fname": "Nguyen Van", "lname": "C" ,"email" : "abc@mail.com" , "phone" : "0123120312", "password" : "Asdasdad"},
-       { "id": 4, "fname": "Nguyen Van", "lname": "D" ,"email" : "abc@mail.com" , "phone" : "0123120312", "password" : "Asdasdad"},
-       { "id": 4, "fname": "Nguyen Van", "lname": "E" ,"email" : "abc@mail.com" , "phone" : "0123120312", "password" : "Asdasdad"},
-    
-    
+  "users": [
+    {
+      "id": 1,
+      "fname": "Nguyen Van",
+      "lname": "A",
+      "email": "abc@mail.com",
+      "phone": "0123120312",
+      "password": "Asdasdad"
+    },
+    {
+      "id": 2,
+      "fname": "Nguyen Van",
+      "lname": "B",
+      "email": "abc@mail.com",
+      "phone": "0123120312",
+      "password": "Asdasdad"
+    },
+    {
+      "id": 3,
+      "fname": "Nguyen Van",
+      "lname": "C",
+      "email": "abc@mail.com",
+      "phone": "0123120312",
+      "password": "Asdasdad"
+    },
+    {
+      "id": 4,
+      "fname": "Nguyen Van",
+      "lname": "D",
+      "email": "abc@mail.com",
+      "phone": "0123120312",
+      "password": "Asdasdad"
+    },
+    {
+      "id": 5,
+      "fname": "Nguyen Van",
+      "lname": "E",
+      "email": "abc@mail.com",
+      "phone": "0123120312",
+      "password": "Asdasdad"
+    }
   ]
 }
