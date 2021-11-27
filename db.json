@@ -12,6 +12,6 @@
     "name": "typicode"
   },
   "users" : [
-      {'id' : 1,'fname': 'Nguyen Van A','lname': 'ABC','email': 'abc@gmail.com','phone': '+0129241','password' : 'AVBDWDJ'},
+         { "id": 1, "body": "some comment", "postId": 1 },
   ]
 }
