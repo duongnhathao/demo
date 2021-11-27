@@ -10,5 +10,54 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users" : [
+  {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+        phone: '+0129241',
+      },
+      {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+      },
+      {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+        phone: '+0129241',
+      },
+      {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+        phone: '+0129241',
+      },
+      {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+        phone: '+0129241',
+      },
+      {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+        phone: '+0129241',
+      },
+      {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+        phone: '+0129241',
+      },
+      {
+        fname: 'ABC',
+        lname: 'ABC',
+        email: 'abc@gmail.com',
+        phone: '+0129241',
+      }
+  ]
 }
