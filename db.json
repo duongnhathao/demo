@@ -13,51 +13,30 @@
   },
   "users" : [
       {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
-        phone: '+0129241',
+        'id' : 1
+        'fname': 'Nguyen Van A',
+        'lname': 'ABC',
+        'email': 'abc@gmail.com',
+        'phone': '+0129241',
+        'password' : 'AVBDWDJ'
       },
-      {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
+         {
+        'id' :2
+        'fname': 'Nguyen Van B',
+        'lname': 'ABC',
+        'email': 'abc@gmail.com',
+        'phone': '+01292421',
+        'password' : 'AVBWEWEFDWDJ'
       },
-      {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
-        phone: '+0129241',
+ 
+         {
+        'id' :3
+        'fname': 'Nguyen Van 3',
+        'lname': 'ABC',
+        'email': 'abc@gmail.com',
+        'phone': '+01292421',
+        'password' : 'WEFWEFWEFW'
       },
-      {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
-        phone: '+0129241',
-      },
-      {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
-        phone: '+0129241',
-      },
-      {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
-        phone: '+0129241',
-      },
-      {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
-        phone: '+0129241',
-      },
-      {
-        fname: 'ABC',
-        lname: 'ABC',
-        email: 'abc@gmail.com',
-        phone: '+0129241',
-      }
+      
   ]
 }
