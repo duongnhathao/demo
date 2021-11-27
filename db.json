@@ -28,9 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "users": [
-    "page" : [
-      "1":[
+  "users?page=1": [ 
   {
       "id": 1,
       "fname": "Nguyen Van",
@@ -70,8 +68,6 @@
       "email": "abc@mail.com",
       "phone": "0123120312",
       "password": "Asdasdad"
-    }
-  ]
-  ]
+    } 
   ]
 }
