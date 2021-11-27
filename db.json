@@ -6,7 +6,10 @@
       "lname": "A",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+     "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 2,
@@ -14,7 +17,10 @@
       "lname": "B",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 3,
@@ -23,6 +29,10 @@
       "email": "abc@mail.com",
       "phone": "0123120312",
       "password": "Asdasdad"
+       ,
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 4,
@@ -30,7 +40,10 @@
       "lname": "D",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 5,
@@ -38,7 +51,10 @@
       "lname": "E",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     } ,
     {
       "id": 6,
@@ -46,7 +62,10 @@
       "lname": "6",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 7,
@@ -54,7 +73,10 @@
       "lname": "7",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 8,
@@ -62,7 +84,10 @@
       "lname": "8",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 9,
@@ -70,7 +95,10 @@
       "lname": "9",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 10,
@@ -78,14 +106,20 @@
       "lname": "10",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     } ,{
       "id": 1,
       "fname": "Nguyen Van",
       "lname": "A",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 2,
@@ -93,7 +127,10 @@
       "lname": "B",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 3,
@@ -101,7 +138,10 @@
       "lname": "C",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 4,
@@ -109,7 +149,10 @@
       "lname": "D",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 5,
@@ -117,7 +160,10 @@
       "lname": "E",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     } ,
     {
       "id": 6,
@@ -125,7 +171,10 @@
       "lname": "6",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 7,
@@ -133,7 +182,10 @@
       "lname": "7",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 8,
@@ -141,7 +193,10 @@
       "lname": "8",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 9,
@@ -149,7 +204,10 @@
       "lname": "9",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 10,
@@ -157,14 +215,20 @@
       "lname": "10",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     } ,{
       "id": 1,
       "fname": "Nguyen Van",
       "lname": "A",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 2,
@@ -172,7 +236,10 @@
       "lname": "B",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 3,
@@ -180,7 +247,10 @@
       "lname": "C",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 4,
@@ -188,7 +258,10 @@
       "lname": "D",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 5,
@@ -196,7 +269,10 @@
       "lname": "E",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     } ,
     {
       "id": 6,
@@ -204,7 +280,10 @@
       "lname": "6",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 7,
@@ -212,7 +291,10 @@
       "lname": "7",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 8,
@@ -220,7 +302,10 @@
       "lname": "8",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 9,
@@ -228,7 +313,10 @@
       "lname": "9",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     },
     {
       "id": 10,
@@ -236,7 +324,10 @@
       "lname": "10",
       "email": "abc@mail.com",
       "phone": "0123120312",
-      "password": "Asdasdad"
+      "password": "Asdasdad",
+            "company" :"asdasdad asdasd",
+     "role": "user",
+     "status" : "active"
     } 
   ],
    "users.page=2": [ 
